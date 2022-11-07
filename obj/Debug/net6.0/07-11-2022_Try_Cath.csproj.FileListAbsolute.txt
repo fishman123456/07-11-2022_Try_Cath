@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\bin\Debug\net6.0\07-11-2022_Try_Cath.exe
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\bin\Debug\net6.0\07-11-2022_Try_Cath.deps.json
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\bin\Debug\net6.0\07-11-2022_Try_Cath.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\bin\Debug\net6.0\07-11-2022_Try_Cath.dll
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\bin\Debug\net6.0\07-11-2022_Try_Cath.pdb
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.dll
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\refint\07-11-2022_Try_Cath.dll
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.pdb
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\07-11-2022_Try_Cath.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\07-11-2022_Try_Cath\obj\Debug\net6.0\ref\07-11-2022_Try_Cath.dll
