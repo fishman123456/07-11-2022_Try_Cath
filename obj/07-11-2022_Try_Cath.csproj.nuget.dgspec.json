@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\profi\\Documents\\Git Hub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj": {}
+    "C:\\Users\\Fishman.DB.CORP\\Documents\\GitHub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\profi\\Documents\\Git Hub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj": {
+    "C:\\Users\\Fishman.DB.CORP\\Documents\\GitHub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\profi\\Documents\\Git Hub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj",
+        "projectUniqueName": "C:\\Users\\Fishman.DB.CORP\\Documents\\GitHub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj",
         "projectName": "07-11-2022_Try_Cath",
-        "projectPath": "C:\\Users\\profi\\Documents\\Git Hub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj",
-        "packagesPath": "C:\\Users\\profi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\profi\\Documents\\Git Hub\\07-11-2022_Try_Cath\\obj\\",
+        "projectPath": "C:\\Users\\Fishman.DB.CORP\\Documents\\GitHub\\07-11-2022_Try_Cath\\07-11-2022_Try_Cath.csproj",
+        "packagesPath": "C:\\Users\\Fishman.DB.CORP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fishman.DB.CORP\\Documents\\GitHub\\07-11-2022_Try_Cath\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\profi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fishman.DB.CORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

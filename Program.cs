@@ -3,7 +3,15 @@
 // Использовать его в теле следующей программы
 // Вводят число А и В. В случае если чило А не делится на число В без 
 // остатка, выдать сообщение об ошибке.
-Console.WriteLine("Введите число А");
+int ex;
+do
+{
+
+   
+    Console.WriteLine("для выхода введите  0 ");
+    ex = int.Parse(Console.ReadLine());
+
+    Console.WriteLine("Введите число А");
 int A = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Введите число В");
@@ -22,5 +30,6 @@ catch (MyException e)
     Console.WriteLine(e.TimeExcept);
     Console.WriteLine(e.Message);
     //вывод стека трассировки
-    
+
 }
+} while (ex !=0) ;
