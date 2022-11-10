@@ -3,13 +3,13 @@
 // Использовать его в теле следующей программы
 // Вводят число А и В. В случае если чило А не делится на число В без 
 // остатка, выдать сообщение об ошибке.
-int ex;
+string ex = "5";
 do
 {
 
    
     Console.WriteLine("для выхода введите  0 ");
-    ex = int.Parse(Console.ReadLine());
+   ex = Console.ReadLine();
 
     Console.WriteLine("Введите число А");
 int A = int.Parse(Console.ReadLine());
@@ -32,4 +32,4 @@ catch (MyException e)
     //вывод стека трассировки
 
 }
-} while (ex !=0) ;
+} while (ex !="0") ;
